@@ -1,0 +1,106 @@
+
+  body {
+    background-color: #c8d6c5;
+    margin: 0;
+  }
+
+  .header {
+    border-radius: 16px;
+    min-height: 100px;
+    min-width: 200px;
+    text-align: center;
+    background-color: #2f3b47;
+    border-radius: 0;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+  }
+
+  #icon {
+    position: absolute;
+    left: 40px;
+    height: 50px;
+    width: 50px;
+    size: 50px;
+    background-color: #2f3b47;
+    color:auto;
+  }
+    .left-section{
+        width: 300px;
+        height: 500px;
+        background-color: #353535;
+        position: absolute;
+        border-radius: 20px;
+        font-size: 32px;
+        display: flex;
+        justify-content: center;
+        left: 50px;
+        
+    }
+
+    .form-control {
+      background-color: #353535;
+      width: 450px;
+      height: 40px;
+      font-size: 20px;
+      position: absolute;
+      top: 140px;
+      left: 35%;
+      border-radius: 8px;
+
+     
+    }
+    .middle-section {
+      display: flex;
+      flex-wrap: wrap;
+      width: 180px;
+      height: 120px;
+      background-color: #353535;
+      position: absolute;
+      top: 250px;
+      left: 30%;
+      border-radius: 15px;
+
+
+    }
+    .middle1-section {
+      display: flex;
+      flex-wrap: wrap;
+      width: 180px;
+      height: 120px;
+      background-color: #353535;
+      position: absolute;
+      top: 250px;
+      left: 45%;
+      border-radius: 15px;
+    }
+    .middle2-section {
+      display: flex;
+      flex-wrap: wrap;
+      width: 180px;
+      height: 120px;
+      background-color: #353535;
+      position: absolute;
+      top: 250px;
+      left: 60%;
+      border-radius: 15px;
+    }
+    .bottom-section {
+      display: flex;
+      flex-wrap: wrap;
+      width: 630px;
+      height: 140px;
+      background-color:#353535;
+      position: absolute;
+      top: 460px;
+      left: 30%;
+      border-radius: 15px;
+    }
+    #searchbox {
+      color: white;
+      font-size: 20px;
+    }
+  
